@@ -1,0 +1,46 @@
+#danger{
+	font-size: 16px;
+	border: 1px solid #a70000;
+	font-family: product sans;
+}
+
+#warning{
+	font-size: 16px;
+	border: 1px solid orange;
+	font-family: product sans;
+}
+
+#success{
+	font-size: 16px;
+	border: 1px solid green;
+	font-family: product sans;
+}
+
+.paragraph a{
+	font-size: 14px;
+}
+
+#well-id{
+	box-shadow: 0px 3px 10px rgba(0,0,0, 0.2);
+}
+
+
+table #tab{
+	font-family: product sans;
+}
+h1{
+	background: #ccc;
+	padding: 2px;
+	margin: 0px;
+	border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+}
+
+p #list{
+	color: white;
+	background: #333;
+	padding: 10px;
+	text-align: center;
+	border: 1px solid #ccc;
+
+}
